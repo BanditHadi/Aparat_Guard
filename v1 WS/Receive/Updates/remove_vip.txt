@@ -1,0 +1,1 @@
+{"response_type":"update_status","response_data":{"payload":{"type":"remove_vip","data":{"all_vip_users":["BIG_TAHA_POL","MOBINfh","STAMBELE"],"username":"amirvicufo","actor_user_name":"bandit.hadi"}}}}

@@ -1,0 +1,1 @@
+42["comment",{"comment":"/replay c9d9bb21-53c9-442d-b96c-7c55a7e55b22 سلام","username":"DJ_Phoenix","key":"e394945efc8741248888988bb6e9e6861","avatar":"https://static.cdn.asset.aparat.com/profile-photo/13100216-909769-s.jpg","isProfanity":false,"isAdmin":false,"hype_donator":false,"subCount":0,"guid":"a1646aea-f723-4e57-9142-940d69d2e169","emote":{}}]

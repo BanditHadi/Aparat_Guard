@@ -1,0 +1,1 @@
+{"response_type":"update_status","response_data":{"payload":{"type":"change_game_name","data":{"game_tag_id":[4986203,5132874],"game_tag_name":"Minecraft","game_cover":"https:\/\/static.cdn.asset.aparat.com\/agf\/tag-pic-5132874-4711.png","actor_user_name":"bandit.hadi"}}}}

@@ -1,0 +1,19 @@
+curl --url ^"https://www.aparat.com/api/fa/v2/Live/LiveStream/donate_streamer^" ^
+  -H ^"accept: application/json, text/plain, */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9,fa;q=0.8,tr;q=0.7^" ^
+  -H ^"content-type: application/json; charset=UTF-8^" ^
+  -b ^"abui50=a; AFCN=176223688811604; canary-clover=true; m_browser=chrome; _ym_uid=1745057207387921847; analytics_token=1d51b050-4579-4092-fc93-82e66a2727bf; _yngt=01KATGM5KQ3EZGPZ506MNM3J2K; m_id=1781079230_2317212; analytics_campaign=^{^%^22source^%^22:^%^22google^%^22^%^2C^%^22medium^%^22:^%^22organic^%^22^}; _ym_d=1781432188; _ga_JEXYQPYX7Z=deleted; m_udid=aparat-febe15a1-bbb2-4a9b-a83f-7d04c4fa6781; _ga=GA1.1.662121207.1765203120; devicetype=null; deviceCategory=high; theme=dark; accounts=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE4MjU2MjI0NzEsImlhdCI6MTc5NDA4NjQ3MSwiYWNjb3VudHMiOlt7InVzZXJpZCI6MTMxMDAyMTYsInRva2VuIjoiMjVlY2IwZDgxYmE2YTkzNWRmOWM2NGM1MzFjYjc0YTUifSx7InVzZXJpZCI6ODEwNTY4MSwidG9rZW4iOiJlMWZhY2IyMGU4NzdiOTExNzRjM2EwYzBhMjNjM2U5ZCJ9LHsidXNlcmlkIjo3Njk2OTIwLCJ0b2tlbiI6IjYzYWMwZmFmYWE2MTJhYWQ3OWFjYmY4NDNmNWJhZjFiIn1dfQ.SRjGM7Mg8UP0i6_wCi72cAZD9tMR_bcN6fApwlCOkZc; AuthV1=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3OTQwODY2MTQsImFmY24iOiIxNzYyMjM2ODg4MTE2MDQiLCJzdWIiOiIzMzc3ODM0Mi1GNUM4LUQyNDctNDBDNi04ODE0NUUzQkIxRkQiLCJ0b2tlbiI6ImUxZmFjYjIwZTg3N2I5MTE3NGMzYTBjMGEyM2MzZTlkIn0.cp79PJmOZ69mRaWubskw3kwEQEaq5vODkW8VI0jPYlA; _ym_isad=2; _clck=euw71u^%^5E2^%^5Egaz^%^5E0^%^5E2168; yektanet_session_last_activity=11/8/2026; mdd=0; _ga_JEXYQPYX7Z=GS2.1.s1794158388^$o363^$g1^$t1794164922^$j57^$l0^$h0; _clsk=1k6jc5v^%^5E1794164923409^%^5E24^%^5E0^%^5Ei.clarity.ms^%^2Fcollect; _clsk=1k6jc5v^%^5E1794164923409^%^5E24^%^5E0^%^5Ei.clarity.ms^%^2Fcollect; _clsk=1k6jc5v^%^5E1794164923409^%^5E24^%^5E0^%^5Ei.clarity.ms^%^2Fcollect^" ^
+  -H ^"currenturl: https://www.aparat.com/dashboard/live^" ^
+  -H ^"isnext: true^" ^
+  -H ^"jsontype: simple^" ^
+  -H ^"origin: https://www.aparat.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://www.aparat.com/dashboard/live^" ^
+  -H ^"sec-ch-ua: ^\^"Not-A.Brand^\^";v=^\^"99^\^", ^\^"Google Chrome^\^";v=^\^"157^\^", ^\^"Chromium^\^";v=^\^"157^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 ^(Windows NT 10.0; Win64; x64^) AppleWebKit/537.36 ^(KHTML, like Gecko^) Chrome/157.0.0.0 Safari/537.36^" ^
+  --data-raw ^"^{^\^"stream_id^\^":304162,^\^"streamer_user_id^\^":^\^"8105681^\^",^\^"streamer_username^\^":^\^"bandit.hadi^\^",^\^"donate_emoji_id^\^":^\^"24^\^",^\^"donate_message^\^":^\^"^ ^ ^  ^ ^ ^ ^  ^ ^ ^ ^ ^\^"^}^"

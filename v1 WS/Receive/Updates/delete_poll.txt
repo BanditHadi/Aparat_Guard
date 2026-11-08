@@ -1,0 +1,1 @@
+{"response_type":"update_status","response_data":{"payload":{"type":"delete_poll","data":{"time":1794171776,"actor_user_name":"bandit.hadi"}}}}
